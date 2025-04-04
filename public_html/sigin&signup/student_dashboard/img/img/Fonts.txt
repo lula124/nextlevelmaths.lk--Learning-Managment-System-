@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Homemade Apple
+Author: Font Diner
+Url: https://www.fontsquirrel.com/fonts/homemade-apple
+
+Font: Gist Rough
+Author: Yellow Design Studio
+Url: https://www.fontsquirrel.com/fonts/gist-rough
