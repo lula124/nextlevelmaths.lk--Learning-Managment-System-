@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2025-07-01 at 20 10 05" src="https://github.com/user-attachments/assets/cfbd33ed-47e0-488e-8659-20edc926e63c" /># 📘 Next Level Maths - Learning Management System (LMS)
+# 📘 Next Level Maths - Learning Management System (LMS)
 
 A custom-built Learning Management System (LMS) designed for **Next Level Maths** to manage online education, student engagement, and course content efficiently. Developed to provide a smooth and user-friendly experience for students and teachers alike.
 
