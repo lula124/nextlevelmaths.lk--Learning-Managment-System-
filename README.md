@@ -37,5 +37,6 @@ A custom-built Learning Management System (LMS) designed for **Next Level Maths*
 
 
 ---
-
+## 🧑‍💻 Author
+Developed by Luthira Dissanayeka
 
